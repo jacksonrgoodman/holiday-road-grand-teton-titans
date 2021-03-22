@@ -5,8 +5,8 @@ DESC
 git clone this repository
 
 ## Usage
-`serve` in the project's root directory
-`json-server -p 8090 -w db.json` in the project's `"root directory"/api` directory
+1. `serve` in the project's root directory  
+2. `json-server -p 8090 -w db.json` in the project's `"root directory"/api` directory
 
 ## Contributing
 [Jackson Goodman](https://github.com/jacksonrgoodman)  
