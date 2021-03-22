@@ -5,14 +5,14 @@ DESC
 git clone this repository
 
 ## Usage
-Serve in the project's root directory
-json-server -p 8090 -w db.json in the project's "root directory"/api
+`serve` in the project's root directory
+`json-server -p 8090 -w db.json` in the project's `"root directory"/api` directory
 
 ## Contributing
-[Jackson Goodman](https://github.com/jacksonrgoodman)
-[Colten Mayberry](https://github.com/coltmay)
-[Sidney Crandall](https://github.com/SidneyCrandall)
-[Bre Coach](https://github.com/Coachbre)
+[Jackson Goodman](https://github.com/jacksonrgoodman)  
+[Colten Mayberry](https://github.com/coltmay)  
+[Sidney Crandall](https://github.com/SidneyCrandall)  
+[Bre Coach](https://github.com/Coachbre)  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
