@@ -9,6 +9,7 @@ git clone this repository
 ## Usage
 1. `serve` in the project's root directory  
 2. `json-server -p 8090 -w db.json` in the project's `"root directory"/api` directory
+3. Have fun and be yourself 💯
 
 ## Contributing
 [Jackson Goodman](https://github.com/jacksonrgoodman)  
