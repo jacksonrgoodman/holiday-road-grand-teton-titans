@@ -2,21 +2,24 @@
 DESC
 
 ## Installation
+git clone this repository
 
 ## Usage
+Serve in the project's root directory
+json-server -p 8090 -w db.json in the project's "root directory"/api
 
 ## Contributing
-[Jackson](https://github.com/jacksonrgoodman)
-[Colten](https://github.com/coltmay)
-[Sidney](https://github.com/SidneyCrandall)
-[Bre](https://github.com/Coachbre)
+[Jackson Goodman](https://github.com/jacksonrgoodman)
+[Colten Mayberry](https://github.com/coltmay)
+[Sidney Crandall](https://github.com/SidneyCrandall)
+[Bre Coach](https://github.com/Coachbre)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
 
-# Holiday Road from Nashville
+# PROJECT OUTLINE AND GOALS
 You and your teammates have been contracted by the National Parks Service to build an application that will allow people to build itineraries for their trips to the beautiful national parks that they maintain. The starting point of each trip will be Nashville, TN, but the destination will a national park selected by the user.
 
 ## Getting Started
