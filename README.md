@@ -1,6 +1,7 @@
 # Holiday Road from Nashville
 ![](./images/Holiday_Road_Project.png)
-This is a Travel Itinerary website I made with a group in Nashville Software School's Cohort 47!
+This is a Travel Itinerary website I made with a group in Nashville Software School's Cohort 47!  
+This was a good practice in working with APIs! I developed the Weather Forecast Feature!
 
 ## Installation
 git clone this repository
