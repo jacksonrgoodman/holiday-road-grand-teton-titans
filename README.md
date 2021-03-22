@@ -1,4 +1,4 @@
-![](/Holiday Road Project.png)
+![](./images/Holiday_Road_Project.png)
 # Holiday Road from Nashville
 DESC
 
