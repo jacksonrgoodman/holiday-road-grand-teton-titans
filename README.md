@@ -1,6 +1,6 @@
 ![](./images/Holiday_Road_Project.png)
 # Holiday Road from Nashville
-DESC
+This is a Travel Itinerary website I made with a group in Nashville Software School's Cohort 47!
 
 ## Installation
 git clone this repository
@@ -16,9 +16,11 @@ git clone this repository
 [Bre Coach](https://github.com/Coachbre)  
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# PROJECT OUTLINE AND GOALS
+[MIT](https://choosealicense.com/licenses/mit/)  
+  
+  
+  
+# Project Outlines and Goals
 You and your teammates have been contracted by the National Parks Service to build an application that will allow people to build itineraries for their trips to the beautiful national parks that they maintain. The starting point of each trip will be Nashville, TN, but the destination will a national park selected by the user.
 
 ## Getting Started
