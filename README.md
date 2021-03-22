@@ -1,5 +1,5 @@
-![](./images/Holiday_Road_Project.png)
 # Holiday Road from Nashville
+![](./images/Holiday_Road_Project.png)
 This is a Travel Itinerary website I made with a group in Nashville Software School's Cohort 47!
 
 ## Installation
